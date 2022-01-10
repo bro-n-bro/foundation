@@ -66,26 +66,48 @@ If any team feels the independent need to create a new organization or a fork, t
 
 ## Activity (Should be refactored)
 
-Active validators in OSMO, Cyber, E-money
+Active validator in OSMO, Cyber, E-money, Stargaze, Microtick, Juno
 
-https://github.com/cosmos/cosmjs/pull/884
+[Grafana boards with useful stats](https://github.com/bro-n-bro/prometheus_exporter):
+
+Bostrom charts: https://monitor.bronbro.io/d/bostrom-stats/
+
+Cosmos charts: https://monitor.bronbro.io/d/cosmos-stats
+
+DVPN charts: https://monitor.bronbro.io/d/dvpn-stats/
+
+Huahua charts: https://monitor.bronbro.io/d/huahua-stats/
+
+Juno charts: https://monitor.bronbro.io/d/juno-stats/
+
+For Juno with graphs: https://monitor.bronbro.io/d/juno-graph/
+
+Microtick charts: https://monitor.bronbro.io/d/microtick-stats
+
+E-money charts: https://monitor.bronbro.io/d/ngm-stats/
+
+Proposal chart for Osmo: https://monitor.bronbro.io/d/proposal-votes
 
 Osmo charts: https://monitor.bronbro.io/
 
 For Osmo with graphs: https://monitor.bronbro.io/d/osmo-graph
 
-Cosmos charts: https://monitor.bronbro.io/d/cosmos-stats
+Price chart: https://monitor.bronbro.io/d/prices - In the left corner you can find "i", this link will redirect you to interested board.
 
-Akash charts: https://monitor.bronbro.io/d/akt-stats/
-
-DVPN charts: https://monitor.bronbro.io/d/dvpn-stats/
+Stargaze charts: https://monitor.bronbro.io/d/stargaze-stats
 
 XPRT charts: https://monitor.bronbro.io/d/xprt-stats/
 
-Price chart: https://monitor.bronbro.io/d/prices - In the left corner you can find "i", this link will redirect you to interested board.
+---------------------------------------------------
 
-Proposal chart for Osmo: https://monitor.bronbro.io/d/proposal-votes
+[Swap indexer for OSMO chain](https://github.com/bro-n-bro/osjuno)
 
-Akash insider, admin in TG in RU chats OSMO and Cyber networks.
+Juno - [Telegramm bot with stats](https://github.com/bro-n-bro/tg-price-bot), [discord ticker](https://github.com/bro-n-bro/discrod_bot) and stats bots.
 
-Swap indexer for OSMO chain.
+Stargaze - [Telegramm bot with stats](https://github.com/bro-n-bro/tg-price-bot), [discord ticker](https://github.com/bro-n-bro/discrod_bot) and stats bots.
+
+Osmo validators [Bro rating](https://github.com/bro-n-bro/bro_rating)
+
+https://github.com/cosmos/cosmjs/pull/884
+
+Admin in TG in RU chats OSMO, Cyber, Juno networks.
