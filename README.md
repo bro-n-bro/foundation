@@ -57,7 +57,7 @@ Foundation can liquidate itself. If this event happens the following will occur:
 
 If a community decides to drop to bro-n-bro, they must understand the following guidelines:
 
-- 60% is dumped back in favor of our communities and will remain under the control of bro-n-brp. bro-n-bro can choose to fully keep the dropped tokens to itself;
+- 60% is dumped back in favor of our communities and will remain under the control of bro-n-bro. bro-n-bro can choose to fully keep the dropped tokens to itself;
 - 40% of the tokens will be dropped to teams
 
 Fund allocation and spendings:
