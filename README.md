@@ -53,7 +53,7 @@ Foundation can liquidate itself. If this event happens the following will occur:
 - Non-fungible items will be auctioned
 - 50% of transferable tokens, will be dropped to founders. 50% will be dropped to teams.
 
-## Processing incoming drops
+## Processing incomes
 
 If a community decides to drop to bro-n-bro, they must understand the following guidelines:
 
