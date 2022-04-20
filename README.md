@@ -60,6 +60,16 @@ If a community decides to drop to bro-n-bro, they must understand the following 
 - 60% is dumped back in favor of our communities and will remain under the control of bro-n-brp. bro-n-bro can choose to fully keep the dropped tokens to itself;
 - 40% of the tokens will be dropped to teams
 
+Fund allocation and spendings:
+ 
+ 50% of weekly profit will be allocated to fund wihout charging expenses. Fund pays all expenses.
+ 
+ Spendings:
+ - Salary
+ - Infrastructure
+ - Participation in conferences (tickets, accomodation, flights, per diem)
+ - SWAG 
+
 ## Forks
 
 If any team feels the independent need to create a new organization or a fork, they are free to do so. Bro-n-bro members will benefit from such behavior and are ready, in case the team is self-sustainable, to transfer repositories.
