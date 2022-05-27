@@ -53,12 +53,22 @@ Foundation can liquidate itself. If this event happens the following will occur:
 - Non-fungible items will be auctioned
 - 50% of transferable tokens, will be dropped to founders. 50% will be dropped to teams.
 
-## Processing incoming drops
+## Processing incomes
 
 If a community decides to drop to bro-n-bro, they must understand the following guidelines:
 
-- 60% is dumped back in favor of our communities and will remain under the control of bro-n-brp. bro-n-bro can choose to fully keep the dropped tokens to itself;
+- 60% is dumped back in favor of our communities and will remain under the control of bro-n-bro. bro-n-bro can choose to fully keep the dropped tokens to itself;
 - 40% of the tokens will be dropped to teams
+
+Fund allocation and spendings:
+ 
+ 50% of weekly profit will be allocated to fund wihout charging expenses. Fund pays all expenses.
+ 
+ Spendings:
+ - Salary
+ - Infrastructure
+ - Participation in conferences (tickets, accomodation, flights, per diem)
+ - SWAG 
 
 ## Forks
 
