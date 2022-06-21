@@ -26,7 +26,7 @@ Osmo validators [Bro rating](https://github.com/bro-n-bro/bro_rating)
 
 ---
 
-Running replayers between Cosmos <> Bostrom <> Osmo , Gravity <> Bostrom
+Running relayers between Cosmos <> Bostrom <> Osmo , Gravity <> Bostrom
 Running auto compound scripts for increasing APR
 
 ---
